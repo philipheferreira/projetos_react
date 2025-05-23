@@ -1,0 +1,33 @@
+Primeira opção: 
+
+comando para criar o projeto: 
+
+* npm create vite@latest meu-projeto-react -- --template react
+
+Acessar a pasta e instalar dependências:
+
+* cd meu-projeto-react
+* npm install
+
+Rodar o projeto localmente: 
+
+* npm run dev
+
+Segunda opção (Alternativa: Criar com Create React App): 
+
+* npx create-react-app meu-projeto
+* cd meu-projeto
+* npm start
+
+estrutura básica do projeto criado com o create React App: 
+
+meu-projeto-react/
+├── public/
+│   └── vite.svg
+├── src/
+│   ├── App.jsx       ← Componente principal
+│   ├── main.jsx      ← Ponto de entrada da aplicação
+│   └── assets/       ← Imagens e outros arquivos
+├── index.html        ← HTML principal
+├── package.json      ← Dependências e scripts
+└── vite.config.js    ← Configurações do Vite
