@@ -1,22 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  const mostrarAlerta = () => {
+    alert('Isso é uma mensagem de alerta');
+  };
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>Projeto de Botão Alerta</h1>
+        <button onClick={mostrarAlerta}>Clique Aqui</button>
       </header>
     </div>
   );
