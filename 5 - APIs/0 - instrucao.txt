@@ -1,0 +1,33 @@
+React (com Vite)
+
+Axios (para requisições HTTP)
+
+CSS simples para estilo
+
+* Arquitetura do projeto: 
+
+pokemon-app/
+├─ public/
+├─ src/
+│  ├─ components/
+│  │  └─ PokemonCard.jsx
+│  ├─ App.jsx
+│  ├─ main.jsx
+│  └─ index.css
+├─ package.json
+└─ vite.config.js
+
+
+1.0 - Instruções para rodar
+1.1 - Crie o projeto com Vite:
+
+* npm create vite@latest pokemon-app -- --template react
+* cd pokemon-app
+* npm install
+
+1.2 - Instale o Axios:
+
+* npm install axios
+
+
+
