@@ -29,5 +29,7 @@ pokemon-app/
 
 * npm install axios
 
+1.3 - start cmd: 
 
+* 
 
