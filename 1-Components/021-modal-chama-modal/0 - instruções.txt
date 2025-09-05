@@ -1,0 +1,30 @@
+Criando um projeto React Usando o Vite:
+
+Antes de começar a usar o vite é necessário verificar qual modelo de node está instalado na maquina, é necessário que precise ser a partir do v18.17.0. Para isso é necessário usar o seguinte comando no cmd:
+
+* node -v
+
+o comando para criar o projeto é: 
+
+* npm create vite@latest modal-chama-modal
+
+Após isso é necessário entrar no projeto e instalar as dependências:
+
+* cd modal-chama-modal
+* npm install
+
+Em seguida é necessário entrar no projeto e rodar ele:
+
+* npm run dev
+
+A estrutura do projeto criado é a logo a baixo:
+
+modal-chama-modal/
+ ├─ node_modules/
+ ├─ public/
+ ├─ src/
+ │   ├─ assets/
+ │   ├─ App.jsx
+ │   ├─ main.jsx
+ ├─ index.html
+ ├─ package.json
