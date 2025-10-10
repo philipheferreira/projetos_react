@@ -27,7 +27,9 @@ function ToDoList() {
 
     return(
     <div>
-        Eu sou um componente
+        <p className="read-the-docs">
+            Eu sou um componente
+        </p>
     </div>
     );
 }
