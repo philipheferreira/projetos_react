@@ -1,0 +1,16 @@
+Primeira opção: 
+
+Usar a versão a cima de 20
+
+comando para criar o projeto: 
+
+* npm create vite@latest to-do-list -- --template react
+
+Acessar a pasta e instalar dependências:
+
+* cd to-do-list
+* npm install
+
+Rodar o projeto localmente: 
+
+* npm run dev
