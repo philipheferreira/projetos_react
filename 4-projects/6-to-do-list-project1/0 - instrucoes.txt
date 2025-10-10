@@ -14,3 +14,7 @@ Acessar a pasta e instalar dependências:
 Rodar o projeto localmente: 
 
 * npm run dev
+
+link do video do projeto: https://www.youtube.com/watch?v=9wiWzu_tRB0
+
+Tempo: 4:20
