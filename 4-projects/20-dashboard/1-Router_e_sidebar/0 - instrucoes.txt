@@ -17,8 +17,6 @@ Rodar o projeto localmente:
 
 link do video do projeto: https://www.youtube.com/watch?v=ibOz6Lz40xU&list=PLwP3cL-MKVkNM28X96Dhc3BLMhtUktiik&index=1
 
-Tempo: 2° video tempo 2:35
-
 A partir daqui irei utilizar a biblioteca Mui, que eu consigo acessando o mui.com. O link: https://mui.com
 
 Esse mui tem uma serie de repositórios pre prontos para serem utilizados no react. é basicamente uma biblioteca de componentes parecido com o quasar.
@@ -40,9 +38,9 @@ C:/Users/User/Documents/estudo/programação/react/Projetos/projetos_react/4-pro
 17 |  const drawerWidth = 240;
 
 
-
-
 Para instalar novos ícones é só utilizar o comando a seguir:
 
 * npm install @mui/icons-material
 
+
+Tempo: 2° video tempo 4:01
