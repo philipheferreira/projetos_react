@@ -1,0 +1,20 @@
+Primeira opção: 
+
+Usar a versão a cima de 20. Estou usando a versão 24 pelo nvm
+
+comando para criar o projeto: 
+
+* npm create vite@latest dashboard -- --template react
+
+Acessar a pasta e instalar dependências:
+
+* cd 20-dashboard
+* npm install
+
+Rodar o projeto localmente: 
+
+* npm run dev
+
+link do video do projeto: https://www.youtube.com/watch?v=ibOz6Lz40xU&list=PLwP3cL-MKVkNM28X96Dhc3BLMhtUktiik&index=1
+
+Tempo: 4:20
