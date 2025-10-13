@@ -42,5 +42,8 @@ Para instalar novos ícones é só utilizar o comando a seguir:
 
 * npm install @mui/icons-material
 
+Para poder utilizar o sistema de router do react é necessario instalar com o comando a baixo:
 
-Tempo: 2° video tempo 4:01
+* npm install react-router-dom
+
+Tempo: 2° video tempo 6:07
