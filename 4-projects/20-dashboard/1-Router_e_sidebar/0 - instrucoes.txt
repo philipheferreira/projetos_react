@@ -17,4 +17,32 @@ Rodar o projeto localmente:
 
 link do video do projeto: https://www.youtube.com/watch?v=ibOz6Lz40xU&list=PLwP3cL-MKVkNM28X96Dhc3BLMhtUktiik&index=1
 
-Tempo: 4:20
+Tempo: 2° video tempo 2:35
+
+A partir daqui irei utilizar a biblioteca Mui, que eu consigo acessando o mui.com. O link: https://mui.com
+
+Esse mui tem uma serie de repositórios pre prontos para serem utilizados no react. é basicamente uma biblioteca de componentes parecido com o quasar.
+
+Comando para instalar o MUI, necessário que seja qualquer versão a cima de 18 do React: 
+
+* npm install @mui/material @emotion/react @emotion/styled
+
+Caso depois de instalar de o erro a baixo utilize o comando a seguir para baixar os ícones da biblioteca mui:
+
+
+[plugin:vite:import-analysis] Failed to resolve import "@mui/icons-material/MoveToInbox" from "src/components/Sidenav.jsx". Does the file exist?
+C:/Users/User/Documents/estudo/programação/react/Projetos/projetos_react/4-projects/20-dashboard/1-Router_e_sidebar/src/components/Sidenav.jsx:14:22
+13 |  import ListItemIcon from "@mui/material/ListItemIcon";
+14 |  import ListItemText from "@mui/material/ListItemText";
+15 |  import InboxIcon from "@mui/icons-material/MoveToInbox";
+   |                         ^
+16 |  import MailIcon from "@mui/icons-material/Mail";
+17 |  const drawerWidth = 240;
+
+
+
+
+Para instalar novos ícones é só utilizar o comando a seguir:
+
+* npm install @mui/icons-material
+
